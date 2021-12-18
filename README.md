@@ -1,3 +1,5 @@
-1946-02-14T20:32:00+09:00
-随机数:88661
-提交次数:1
+- 👋 Hi, I’m @timkayhou
+- 👀 I’m interested in animate.
+- 🌱 I’m currently learning C#.
+- 💞️ I’m looking to collaborate on GitHub.
+- 📫 You can contact me via email timkayhou@gmail.com.

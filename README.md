@@ -3,6 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20world!%22);Hello,%20world!&center=true&size=24">
   </a>
 </h1>
+<iframe  
+ height=850 
+ width=90% 
+ src="https://github.com/timkayhou/nixie-clock/blob/main/index.html"  
+ frameborder=0  
+ allowfullscreen>
+</iframe>
 
 <div align="center" border-radius="100px">
   <a href="https://timkayhou.com/">

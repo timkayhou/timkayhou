@@ -38,6 +38,9 @@
   <a href="https://www.zhihu.com/people/expurgator/">
     <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-blue.svg?style=flat-square&logo=zhihu&logoColor=white">
   </a>&emsp;
+  <a href="https://weibo.com/725489123/">
+    <img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-red.svg?style=flat-square&logo=sinaweibo&logoColor=white">
+  </a>&emsp;
   <img src="https://visitor-badge.glitch.me/badge?page_id=timkayhou" />
 </div>
   

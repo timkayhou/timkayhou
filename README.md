@@ -91,6 +91,7 @@ Plan:
 ![Less](https://img.shields.io/badge/Less-blue.svg?style=flat-square&logo=less&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-blue.svg?style=flat-square&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-blue.svg?style=flat-square&logo=eslint&logoColor=white)
 
 OS:
 

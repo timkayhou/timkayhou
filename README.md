@@ -5,7 +5,9 @@
 </h1>
 
 <div align="center" border-radius="100px">
-  <img src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
+  <a href="https://timkayhou.com/">
+    <img src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
+  </a>
 </div>
 
 ![Visitor Count](https://profile-counter.glitch.me/timkayhou/count.svg)

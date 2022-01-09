@@ -34,7 +34,7 @@ Learning:
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-php-6666FF?style=flat-square&logo=php)
+![PHP](https://img.shields.io/badge/-php-6666FF?style=flat-square&logo=php&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Node.js-c0ebd?style=flat-square&logo=Node.js)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-lightblue?style=flat-square&logo=docker)

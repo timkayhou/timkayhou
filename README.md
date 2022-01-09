@@ -12,11 +12,21 @@
 
 <div align="center">
   <a href="https://timkayhou.com/"><img src="https://img.shields.io/badge/website-blue"></a>&emsp;
-  <a href="https://twitter.com/timkayhou/"><img src="https://img.shields.io/badge/twitter-blue"></a>&emsp;
-  <a href="https://www.facebook.com/timkayhou/"><img src="https://img.shields.io/badge/facebook-003472"></a>&emsp;
-  <a href="https://www.youtube.com/channel/UCOuJYn159EsQfEduhxFzl8w"><img src="https://img.shields.io/badge/youtube-c32136"></a>&emsp;
-  <a href="https://space.bilibili.com/5770923/"><img src="https://img.shields.io/badge/bilibili-ff69b4"></a>&emsp;
-  <a href="https://www.zhihu.com/people/expurgator/"><img src="https://img.shields.io/badge/zhihu-blue"></a>&emsp;
+  <a href="https://twitter.com/timkayhou/">
+    <img src="https://img.shields.io/badge/Twitter-blue.svg?style=flat-square&logo=twitter&logoColor=white">
+  </a>&emsp;
+  <a href="https://www.facebook.com/timkayhou/">
+    <img src="https://img.shields.io/badge/facebook-blue.svg?style=flat-square&logo=facebook&logoColor=white">
+  </a>&emsp;
+  <a href="https://www.youtube.com/channel/UCOuJYn159EsQfEduhxFzl8w">
+    <img src="https://img.shields.io/badge/youtube-FF0000.svg?style=flat-square&logo=youtube&logoColor=white">
+  </a>&emsp;
+  <a href="https://space.bilibili.com/5770923/">
+    <img src="https://img.shields.io/badge/bilibili-pink.svg?style=flat-square&logo=bilibili&logoColor=white">
+  </a>&emsp;
+  <a href="https://www.zhihu.com/people/expurgator/">
+    <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-blue.svg?style=flat-square&logo=zhihu&logoColor=white">
+  </a>&emsp;
   <img src="https://visitor-badge.glitch.me/badge?page_id=timkayhou" />
 </div>
   
@@ -29,27 +39,31 @@ Learning:
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=java&logoColor=red)
-![MySQL](https://img.shields.io/badge/MySQL-blue.svg?style=flat-square&logo=MySQL&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/React-black.svg?style=flat-square&logo=react&logoColor=blue)
 ![Vue.js](https://img.shields.io/badge/Vue.js-darkgreen.svg?style=flat-square&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-php-6666FF?style=flat-square&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-c0ebd?style=flat-square&logo=Node.js)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-lightblue?style=flat-square&logo=docker)
+![MySQL](https://img.shields.io/badge/MySQL-blue.svg?style=flat-square&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6666FF.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
 Plan:
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=lightyellow)
+![PHP](https://img.shields.io/badge/-php-6666FF?style=flat-square&logo=php&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-orange.svg?style=flat-square&logo=oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-red.svg?style=flat-square&logo=redis&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-darkgreen.svg?style=flat-square&logo=vim&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-green.svg?style=flat-square&logo=spring&logoColor=white)
-
+![Swagger](https://img.shields.io/badge/Swagger-green.svg?style=flat-square&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-orange.svg?style=flat-square&logo=postman&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-yellow.svg?style=flat-square&logo=babel&logoColor=black)
 
 OS:
 

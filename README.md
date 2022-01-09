@@ -45,6 +45,10 @@ Learning:
 Plan:
 
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![Oracle](https://img.shields.io/badge/Oracle-orange.svg?style=flat-square&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-red.svg?style=flat-square&logo=redis&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-darkgreen.svg?style=flat-square&logo=vim&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-green.svg?style=flat-square&logo=spring&logoColor=white)
 
 
 OS:

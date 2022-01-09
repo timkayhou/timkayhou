@@ -115,6 +115,10 @@ Tools:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Excel](https://img.shields.io/badge/Excel-darkgreen.svg?style=flat-square&logo=microsoftexcel&logoColor=white)
 
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
+</div>
+
 ![Visitor Count](https://profile-counter.glitch.me/timkayhou/count.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timkayhou)](https://github.com/timkayhou/github-readme-stats)

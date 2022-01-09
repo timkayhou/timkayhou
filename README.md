@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://timkayhou.com/">
     <img src="https://img.shields.io/badge/website-blue">
-  </a>&emsp;
+  </a>
   <a href="https://twitter.com/timkayhou/">
     <img src="https://img.shields.io/badge/Twitter-blue.svg?style=flat-square&logo=twitter&logoColor=white">
   </a>&emsp;

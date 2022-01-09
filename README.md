@@ -11,15 +11,26 @@
 </div>
 
 <div align="center">
-  <a href="https://timkayhou.com/"><img src="https://img.shields.io/badge/website-blue"></a>&emsp;
+  <a href="https://timkayhou.com/">
+    <img src="https://img.shields.io/badge/website-blue">
+  </a>&emsp;
   <a href="https://twitter.com/timkayhou/">
     <img src="https://img.shields.io/badge/Twitter-blue.svg?style=flat-square&logo=twitter&logoColor=white">
   </a>&emsp;
+  <a href="https://www.instagram.com/expurgatorious/">
+    <img src="https://img.shields.io/badge/Instagram-FF1A75.svg?style=flat-square&logo=instagram&logoColor=white">
+  </a>&emsp;
   <a href="https://www.facebook.com/timkayhou/">
-    <img src="https://img.shields.io/badge/facebook-blue.svg?style=flat-square&logo=facebook&logoColor=white">
+    <img src="https://img.shields.io/badge/Facebook-blue.svg?style=flat-square&logo=facebook&logoColor=white">
   </a>&emsp;
   <a href="https://www.youtube.com/channel/UCOuJYn159EsQfEduhxFzl8w">
     <img src="https://img.shields.io/badge/youtube-FF0000.svg?style=flat-square&logo=youtube&logoColor=white">
+  </a>&emsp;
+  <a href="https://www.twitch.tv/expurgatorious/">
+    <img src="https://img.shields.io/badge/Twitch-9900CC.svg?style=flat-square&logo=twitch&logoColor=white">
+  </a>&emsp;
+  <a href="https://www.reddit.com/user/Expurgatorious/">
+    <img src="https://img.shields.io/badge/Reddit-orange.svg?style=flat-square&logo=reddit&logoColor=white">
   </a>&emsp;
   <a href="https://space.bilibili.com/5770923/">
     <img src="https://img.shields.io/badge/bilibili-pink.svg?style=flat-square&logo=bilibili&logoColor=white">

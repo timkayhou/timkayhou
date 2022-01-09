@@ -4,6 +4,10 @@
   </a>
 </h1>
 
+<div align="center">
+  <img order-radius="100px" src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
+</div>
+
 ![Visitor Count](https://profile-counter.glitch.me/timkayhou/count.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timkayhou)](https://github.com/timkayhou/github-readme-stats)

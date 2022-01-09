@@ -67,6 +67,8 @@ Learning:
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-orange.svg?style=flat-square&logo=ubuntu&logoColor=white)
 ![OpenWRT](https://img.shields.io/badge/OpenWRT-blue.svg?style=flat-square&logo=openwrt&logoColor=white)
+![SVG](https://img.shields.io/badge/SVG-orange.svg?style=flat-square&logo=svg&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-black.svg?style=flat-square&logo=json&logoColor=white)
 
 Plan:
 
@@ -81,6 +83,7 @@ Plan:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-yellow.svg?style=flat-square&logo=babel&logoColor=black)
 ![kali](https://img.shields.io/badge/kali-blue.svg?style=flat-square&logo=kali-linux&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-blue.svg?style=flat-square&logo=sqlite&logoColor=white)
 
 OS:
 

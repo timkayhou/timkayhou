@@ -89,6 +89,7 @@ Plan:
 ![Webpack](https://img.shields.io/badge/Webpack-blue.svg?style=flat-square&logo=webpack&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-orange.svg?style=flat-square&logo=apachetomcat&logoColor=black)
 ![Less](https://img.shields.io/badge/Less-blue.svg?style=flat-square&logo=less&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-blue.svg?style=flat-square&logo=redux&logoColor=white)
 
 OS:
 

@@ -105,6 +105,7 @@ Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Excel](https://img.shields.io/badge/Excel-darkgreen.svg?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ![Visitor Count](https://profile-counter.glitch.me/timkayhou/count.svg)
 

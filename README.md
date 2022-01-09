@@ -90,6 +90,7 @@ Plan:
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-orange.svg?style=flat-square&logo=apachetomcat&logoColor=black)
 ![Less](https://img.shields.io/badge/Less-blue.svg?style=flat-square&logo=less&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-blue.svg?style=flat-square&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
 OS:
 

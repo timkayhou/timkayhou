@@ -75,6 +75,7 @@ Learning:
 Plan:
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=lightyellow)
+![Go](https://img.shields.io/badge/Go-blue.svg?style=flat-square&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/-php-6666FF?style=flat-square&logo=php&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-orange.svg?style=flat-square&logo=oracle&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-darkgreen.svg?style=flat-square&logo=vim&logoColor=white)

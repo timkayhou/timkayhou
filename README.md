@@ -36,7 +36,7 @@ Learning:
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Node.js-c0ebd?style=flat-square&logo=Node.js)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-lightblue?style=flat-square&logo=docker)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
 Plan:

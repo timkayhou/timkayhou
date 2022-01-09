@@ -64,6 +64,7 @@ Learning:
 ![Docker](https://img.shields.io/badge/-Docker-lightblue?style=flat-square&logo=docker)
 ![MySQL](https://img.shields.io/badge/MySQL-blue.svg?style=flat-square&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6666FF.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Power Shell](https://img.shields.io/badge/PowerShell-blue.svg?style=flat-square&logo=powershell&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-orange.svg?style=flat-square&logo=ubuntu&logoColor=white)
 ![OpenWRT](https://img.shields.io/badge/OpenWRT-blue.svg?style=flat-square&logo=openwrt&logoColor=white)

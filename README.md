@@ -6,7 +6,7 @@
 <iframe  
  height=850 
  width=90% 
- src="https://github.com/timkayhou/nixie-clock/blob/main/index.html"  
+ src="http://htmlpreview.github.io/?https://github.com/timkayhou/nixie-clock/blob/main/index.html"  
  frameborder=0  
  allowfullscreen>
 </iframe>

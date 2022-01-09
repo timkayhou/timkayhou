@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img order-radius="100px" src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
+  <img border-radius="100px" src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
 </div>
 
 ![Visitor Count](https://profile-counter.glitch.me/timkayhou/count.svg)

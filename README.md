@@ -1,10 +1,12 @@
 <h1 align="center">
+  <font face="verdana">
   <a href="https://timkayhou.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20world!%22);Hello,%20world!&center=true&size=24">
   </a>
+  </font>
 </h1>
 
-<div align="center" border-radius="100px">
+<div align="center">
   <a href="https://timkayhou.com/">
     <img src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
   </a>

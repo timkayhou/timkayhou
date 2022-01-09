@@ -4,8 +4,8 @@
   </a>
 </h1>
 
-<div align="center">
-  <img border-radius="100px" src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
+<div align="center" border-radius="100px">
+  <img src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
 </div>
 
 ![Visitor Count](https://profile-counter.glitch.me/timkayhou/count.svg)

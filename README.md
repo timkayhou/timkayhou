@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://timkayhou.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2Cworld!%22);Hello,world!&center=true&size=24">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20world!%22);Hello,%20world!&center=true&size=24">
   </a>
 </h1>
 

@@ -1,4 +1,8 @@
-# Hello, world!
+<h1 align="center">
+  <a href="https://timkayhou.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20world!%22);Hello, world!&center=true&size=24">
+  </a>
+</h1>
 
 ![Visitor Count](https://profile-counter.glitch.me/timkayhou/count.svg)
 

@@ -69,6 +69,7 @@ Learning:
 ![OpenWRT](https://img.shields.io/badge/OpenWRT-blue.svg?style=flat-square&logo=openwrt&logoColor=white)
 ![SVG](https://img.shields.io/badge/SVG-orange.svg?style=flat-square&logo=svg&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-black.svg?style=flat-square&logo=json&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-white.svg?style=flat-square&logo=npm&logoColor=white)
 
 Plan:
 
@@ -84,6 +85,9 @@ Plan:
 ![Babel](https://img.shields.io/badge/Babel-yellow.svg?style=flat-square&logo=babel&logoColor=black)
 ![kali](https://img.shields.io/badge/kali-blue.svg?style=flat-square&logo=kali-linux&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-blue.svg?style=flat-square&logo=sqlite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-blue.svg?style=flat-square&logo=webpack&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-orange.svg?style=flat-square&logo=apachetomcat&logoColor=black)
+![Less](https://img.shields.io/badge/Less-blue.svg?style=flat-square&logo=less&logoColor=black)
 
 OS:
 

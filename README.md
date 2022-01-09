@@ -67,8 +67,6 @@ Tools:
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-
-
 ![Visitor Count](https://profile-counter.glitch.me/timkayhou/count.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timkayhou)](https://github.com/timkayhou/github-readme-stats)

@@ -17,8 +17,7 @@
   <a href="https://www.youtube.com/channel/UCOuJYn159EsQfEduhxFzl8w"><img src="https://img.shields.io/badge/youtube-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/5770923/"><img src="https://img.shields.io/badge/bilibili-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/expurgator/"><img src="https://img.shields.io/badge/zhihu-blue"></a>&emsp;
-<!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /></div>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=timkayhou" /></div>
 
 ![Visitor Count](https://profile-counter.glitch.me/timkayhou/count.svg)
 

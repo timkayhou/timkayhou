@@ -47,7 +47,7 @@
 </div>
   
 <div align="center">
-  <img src="https://raw.githubusercontent.com/timkayhou/my-pictures/0a23887762488433ef03d72e6b9db4ea23776f49/svg/grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/timkayhou/timkayhou/b12ecbd93bdcf038b7925f2db2e18a269f217268/assets/github-contribution-grid-snake.svg" />
 </div>
 
 

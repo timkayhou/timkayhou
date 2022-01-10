@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue.svg?style=flat-square&logo=facebook&logoColor=white">
   </a>
   <a href="https://www.youtube.com/channel/UCOuJYn159EsQfEduhxFzl8w">
-    <img src="https://img.shields.io/badge/youtube-FF0000.svg?style=flat-square&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=flat-square&logo=youtube&logoColor=white">
   </a>
   <a href="https://www.twitch.tv/expurgatorious/">
     <img src="https://img.shields.io/badge/Twitch-9900CC.svg?style=flat-square&logo=twitch&logoColor=white">

@@ -98,6 +98,7 @@ Plan:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-blue.svg?style=flat-square&logo=eslint&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-darkgreen.svg?style=flat-square&logo=nginx&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-blue.svg?style=flat-square&logo=electron&logoColor=white)
 
 
 OS:
